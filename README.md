@@ -83,3 +83,8 @@ print(chat_history.messages)
 ### Vectorstore
 
 See example for the [PGVector vectorstore here](https://github.com/langchain-ai/langchain-postgres/blob/main/examples/vectorstore.ipynb)
+
+
+### Version for distribute 2025-03-11
+
+Using citus build distributed version
